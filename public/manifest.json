@@ -1,0 +1,15 @@
+{
+  "name": "Intercate Hub",
+  "short_name": "Intercate Hub",
+  "start_url": "/hub-content/",
+  "scope": "/hub-content/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/hub-content/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

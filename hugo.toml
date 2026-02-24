@@ -1,0 +1,5 @@
+baseURL = 'https://harl00.github.io/hub-content/'  # Adjust username/repo as needed
+languageCode = 'en-us'
+title = 'Intercate Hub'
+theme = "hugo-book"
+publishDir = "public"
